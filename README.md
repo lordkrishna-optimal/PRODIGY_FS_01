@@ -147,7 +147,7 @@ For major changes, please open an issue first.
 
 ## 📌 Author  
 
-**Akash Jadhav**  
+**Vinod Choudhary**  
 Full Stack Web Development Intern  
 **Prodigy Infotech**
 
